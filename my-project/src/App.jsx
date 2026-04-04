@@ -6,6 +6,7 @@ import { MobileMenu } from './components/MobileMenu';
 import { Home } from './components/Sections/Home';
 import { About } from './components/Sections/About';
 import { Projects } from './components/Sections/Project';
+import { Contact } from './components/Sections/Contact';
 import './index.css';
 
 
@@ -22,6 +23,7 @@ function App() {
     <Home/>
     <About/>
     <Projects/>
+    <Contact/>
 
   </div>
 </>
